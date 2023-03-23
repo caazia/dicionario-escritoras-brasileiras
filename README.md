@@ -10,4 +10,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-- [Visite o projeto online]()
+- [Visite o projeto online](https://caazia.github.io/dicionario-escritoras-brasileiras/)
